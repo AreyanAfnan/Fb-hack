@@ -78,7 +78,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  ""
 jalan("\033[1;92mW E L D O N E ")
-jalan("\033[1;92mH E Y   G U Y S   T H I S  I S  A R E Y A N)
+jalan("\033[1;92mH E Y   G U Y S   T H I S  I S  A R E Y A N")
 jalan("\033[1;92mH E Y   G U Y S   T H I S  I S  A R E Y A N")
 jalan("\033[1;92mW E L C O M E   B A C K   A G I N")
 
